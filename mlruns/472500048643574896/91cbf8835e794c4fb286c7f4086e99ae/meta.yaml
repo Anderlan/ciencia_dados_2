@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Dev/ciencia_dados_2/mlruns/472500048643574896/91cbf8835e794c4fb286c7f4086e99ae/artifacts
+end_time: 1758896855821
+entry_point_name: ''
+experiment_id: '472500048643574896'
+lifecycle_stage: active
+run_id: 91cbf8835e794c4fb286c7f4086e99ae
+run_name: RandomForest_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758896855633
+status: 4
+tags: []
+user_id: AnderlanHenriqueBati
